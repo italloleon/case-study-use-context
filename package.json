@@ -1,0 +1,14 @@
+{
+  "name": "case-study-use-context",
+  "version": "1.0.0",
+  "description": "Projeto de teste de features com useContext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.0.4"
+  }
+}
