@@ -1,2 +1,2 @@
 # case-study-use-context
-Esse repositorio é um ambiente experimental para refatorar uma feature construída numa tarefa do trabalho. A ideia é simular o comportamento para avaliar a melhor solução.
+This repository is an experimental environment for refactoring a feature built in a work task. The idea is to simulate the behavior to evaluate the best solution.
